@@ -1,4 +1,4 @@
-#React SPA Example
+# React SPA Example
 
 Esta SPA consume datos de un servidor en localhost:8081 con endpoints en / y en /movies/
 Consta de 2 componentes, Movies: el componente inicial que lista todas las películas de un actor dado en los parámetros de la URL y Movie, el componente que muestra más a detalle la película seleccionada. Los componentes se encuentran en la carpeta /src, la implementación en /src/App.js y la página donde se montan en /public/index.html .
